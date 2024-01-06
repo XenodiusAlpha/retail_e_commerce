@@ -30,7 +30,7 @@ This backend application serves as the foundation for your internet retail compa
 5. **Create Database:**
     - Navigate to db folder, and run `mysql`, followed by entering your credentials
    ```
-   mysql
+   mysql -u root -p
    ```
     - Run your source schema.sql file.
    ```
@@ -80,7 +80,7 @@ This project is licensed under the [MIT License](LICENSE).
 ![Put Category](./screenshots/put.png)
 
 ## Videolink
-
+https://drive.google.com/file/d/196I2HYlkISx9Ly68AB7AEf-heRTt0LRD/view?usp=sharing
 
 ## Contact
 
